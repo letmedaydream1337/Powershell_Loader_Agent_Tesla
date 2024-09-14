@@ -6,6 +6,8 @@ Visit for more information
 ## How to use
 
 ### Compile
+Just Create a Visual project and put code in
+
 
 ### Append dotNet Module to JPG
 cmd
